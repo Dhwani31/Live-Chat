@@ -1,0 +1,29 @@
+#main{
+	margin-top: 20px;
+	background-color: beige;
+	width:400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#chat_box{
+	padding:5px;
+	width:380px;
+	min-height: 280px;
+	height:480px;
+	overflow: auto;
+}
+#chat_data{
+	width:100%;
+	margin-bottom: 5px;
+}
+#s1{
+	font-weight: bold; 
+	color:green;
+	padding: 10px;
+}
+#s2{
+	color:red;
+}
+#s3{
+	float:right;
+}
